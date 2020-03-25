@@ -10,6 +10,7 @@ Yay: JustMidi, Enus, Luxas, SadFarm1
 ##### Appended by Enus 3/23/2020 4:10PM EST
 <p>When asking for help, please do not be demanding of other members. No one is required to help you, staff and helpful members are part of this community in our free time. Swearing is allowed but keep in mind that abrasive members will have corrective action taken. Hate speech will not be tolerated. Racial slurs will result in your only warning and the offending message(s) removed. Repeat offenders will be banned. Replacing letters with symbols or punctuation (e.g. leet-speak) will count as an offense. No trolling, flaming, or intolerance of others' personal beliefs is allowed. Suicide and rape jokes will be held in contempt. This rule extends to private conversations with other members of the community as well. If we receive reports of harassment of another member outside of this community, corrective action will be taken against the offending member.</p>
 Yay: JustMidi, Enus, Luxas, SadFarm1
+
 Append Yay: Enus, JustMidi, Jemini
 
 ### 3) Stay on-topic
