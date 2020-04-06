@@ -20,5 +20,10 @@ Yay: JustMidi, Enus, SadFarm1
 
 ### 4) Discord Terms of Service Are Law
 ##### Finalized by Enus 3/23/2020 5:11PM EST
-<p>The official Discord Terms of Service/Guidelines are also law. If you would like to take a look of what the Discord Developers expect out of us, please read the guidelines at the following link ( https://discordapp.com/guidelines ). Breaking these guidelines may result from a ban from the community.  Advertising another Discord Server is not allowed. Please contact one of the Overseer if you want to partner with us.</p>
+<p>The official Discord Terms of Service/Guidelines are also law. If you would like to take a look of what the Discord Developers expect out of us, please read the guidelines at the following link ( https://discordapp.com/guidelines ). Breaking these guidelines may result from a ban from the community.</p>
 Yay: JustMidi, Enus, SadFarm1, Jemini
+
+### 5) No Advertising
+##### Finalized by Enus 4/6/2020 9:25AM EST
+<p>Advertising another Discord Server is not allowed. Please contact one of the Overseer if you want to partner with us.</p>
+Yay: JustMidi, Jemini, Enus, SadFarm1, Caitlynyboo, Grape
