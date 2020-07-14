@@ -46,7 +46,7 @@ Advertising another Discord Server is not allowed. Please contact one of the Ove
 
 Yay: JustMidi, Jemini, Enus, SadFarm1, Caitlynyboo, Grape
 
-### 6) No misinformation
+### 6) No Misinformation
 
 ##### Finalized by JustMidi 2020/6/4 16:04 UTC
 
@@ -55,3 +55,12 @@ All unsourced information or false information will be deleted and the commenter
 Yay: Warboss, Kruug, Aprophecy, JustMidi, SadFarm1, Caitlynyboo, Grape, Kryptos
 
 Nay: Jemini
+
+### 7) Active Staff
+
+
+##### Finalized by JustMidi 2020/7/14 01:56 UTC
+
+If a staff member is inactive for two months in the server, they will be dismissed. Once they are active again, they can be let back on to staff if they wish.
+
+Yay: JustMidi, Kruug, Caitlynyboo, Jemini, chick3nman, warboss, Veerce, SadFarm1, Grape
