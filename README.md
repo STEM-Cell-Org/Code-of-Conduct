@@ -1,10 +1,10 @@
-# THS-Code-Of-Conduct
+# Code-Of-Conduct
 
 ### 1) Act in accordance with the Constitution
 
 ##### Finalized by Enus 2020/3/23 00:06 EST
 
-The Constitution is the guiding hand of the server and is a complete reference to how staff operates in accordance to electing new staff members, disputes, the addition or removal of rules to the Constitution and Code of Conduct, and the relationship between The Hackerspace and Vojes Enterprises. It is recommended that all members of The Hackerspace read the Constitution so they are aware of how the staff should function, and to call out inappropriate behavior that does not fall in line with the Constitution or Code of Conduct.
+The Constitution is the guiding hand of the server and is a complete reference to how staff operates in accordance to electing new staff members, disputes, the addition or removal of rules to the Constitution and Code of Conduct, and the relationship between STEM Cell and Vojes Enterprises. It is recommended that all members of STEM Cell read the Constitution so they are aware of how the staff should function, and to call out inappropriate behavior that does not fall in line with the Constitution or Code of Conduct.
 
 Yay: JustMidi, Enus, Luxas, SadFarm1
 
